@@ -1,0 +1,5 @@
+{
+  "name": "PromptMaster NES",
+  "description": "A retro-styled prompt management system with CRUD capabilities and cloud storage, inspired by classic Nintendo aesthetics.",
+  "requestFramePermissions": []
+}
